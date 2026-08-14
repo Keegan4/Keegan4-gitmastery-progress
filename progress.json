@@ -1,5 +1,111 @@
 [
   {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786350987.937374,
+    "completed_at": 1786350995.24136,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786351050.684881,
+    "completed_at": 1786351056.280076,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786680385.480617,
+    "completed_at": 1786680394.384761,
+    "comments": [
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786680550.8621,
+    "completed_at": 1786680558.147612,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786442252.419286,
+    "completed_at": 1786442254.009514,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786352096.325665,
+    "completed_at": 1786352101.839689,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786679518.623562,
+    "completed_at": 1786679521.846298,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786439996.061333,
+    "completed_at": 1786440049.960529,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786440061.688908,
+    "completed_at": 1786440069.863638,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786288426.363601,
+    "completed_at": 1786288432.036148,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786352328.160135,
+    "completed_at": 1786352335.880266,
+    "comments": [
+      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786352421.752314,
+    "completed_at": 1786352427.248648,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "under-control",
     "started_at": 1786270426.026286,
     "completed_at": 1786270427.658894,
@@ -23,58 +129,6 @@
     "completed_at": 1786270551.035145,
     "comments": [
       "You have successfully undone the init operation!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "stage-fright",
-    "started_at": 1786288426.363601,
-    "completed_at": 1786288432.036148,
-    "comments": [
-      "Great work! You have successfully checked in all the actors!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786350987.937374,
-    "completed_at": 1786350995.24136,
-    "comments": [
-      "There are no new grocery list items added to the shopping list."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1786351050.684881,
-    "completed_at": 1786351056.280076,
-    "comments": [
-      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "log-and-order",
-    "started_at": 1786352096.325665,
-    "completed_at": 1786352101.839689,
-    "comments": [],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786352328.160135,
-    "completed_at": 1786352335.880266,
-    "comments": [
-      "You should only be unstaging the attendance files for Josh, Adam, and Mary."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "staging-intervention",
-    "started_at": 1786352421.752314,
-    "completed_at": 1786352427.248648,
-    "comments": [
-      "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
   }
